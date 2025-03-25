@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+    h1 {
+      font-size: var(--text-md);
+    }
+    h2 {
+      font-size: var(--text-base);
+    }
+  }
