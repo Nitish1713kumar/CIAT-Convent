@@ -263,7 +263,7 @@ const Dashboard = () => {
               <div className="flex justify-between">
                 <span className="text-gray-600">System Developer:</span>
                 <a href='https://www.linkedin.com/in/vinaygupta-nitjsr/' className="text-blue-600 hover:text-blue-800">
-                  <span className="font-medium">VINAY GUPTA</span>
+                  <span className="font-medium">SAURABH SITHKAR</span>
                 </a>
               </div>
             </div>
