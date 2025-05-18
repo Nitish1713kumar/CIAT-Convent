@@ -91,8 +91,8 @@ const Home = () => {
   // Stats for counter section
   const stats = [
     { label: 'Years of Excellence', value: 25 },
-    { label: 'Qualified Faculty', value: 20 },
-    { label: 'Students', value: 500 },
+    { label: 'Qualified Faculty', value: 40 },
+    { label: 'Students', value: 1200 },
     { label: 'Courses Offered', value: 5 },
   ];
 
